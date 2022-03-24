@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/83vaq7w2s2qannxj/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-router-menu/branch/master)
 
 [Навигационное меню](https://rebikhub.github.io/ra-router-menu/)
 
