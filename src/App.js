@@ -13,10 +13,10 @@ export default function App() {
           <Menu />
           <div className="page">
             <Routes>
-              <Route path="/ra-router-menu/" element={<HomePage/>} />
-              <Route path="/ra-router-menu/drift" element={<DriftPage/>} />
-              <Route path="/ra-router-menu/timeattack" element={<TimeAttackPage/>} />
-              <Route path="/ra-router-menu/forza" element={<ForzaPage/>} />
+              <Route path="https://rebikhub.github.io/ra-router-menu/" element={<HomePage/>} />
+              <Route path="https://rebikhub.github.io/ra-router-menu/drift" element={<DriftPage/>} />
+              <Route path="https://rebikhub.github.io/ra-router-menu/timeattack" element={<TimeAttackPage/>} />
+              <Route path="https://rebikhub.github.io/ra-router-menu/forza" element={<ForzaPage/>} />
             </Routes>
           </div>
         </div>
